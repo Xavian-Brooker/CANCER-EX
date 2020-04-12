@@ -6,6 +6,7 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = '5791628bb0b13ce0c676dfde280ba245'
 
 '''
+This is the list of all dependent variables
 p_map = {'name':'Robert Downey',
  'age':51,
  'sex':'M',
