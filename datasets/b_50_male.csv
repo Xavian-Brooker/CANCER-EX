@@ -1,0 +1,173 @@
+Population,Number,Uncertainty interval,Crude Rate*,ASR (World)*,Cum. risk**
+World,17232,Notavailable,0.58,0.53,0.03
+China,5147,Notavailable,1,0.66,0.04
+United States of America,1177,Notavailable,1.1,0.88,0.06
+Japan,388,Notavailable,1.1,0.63,0.04
+Russian Federation,775,Notavailable,1.7,1.3,0.08
+Germany,240,Notavailable,1,0.66,0.04
+France,315,Notavailable,1.6,1.1,0.07
+Italy,176,Notavailable,1.1,0.58,0.04
+Brazil,529,Notavailable,0.66,0.56,0.04
+United Kingdom,168,Notavailable,0.8,0.59,0.04
+India,1711,Notavailable,0.3,0.29,0.02
+Spain,148,Notavailable,1.1,0.6,0.04
+"Korea, Republic of",197,Notavailable,1.2,0.7,0.05
+Turkey,284,Notavailable,0.89,0.8,0.05
+Ukraine,269,Notavailable,1.9,1.4,0.09
+Indonesia,392,Notavailable,0.36,0.33,0.02
+Poland,170,Notavailable,1.4,0.98,0.06
+Canada,102,Notavailable,0.89,0.65,0.04
+Argentina,128,Notavailable,0.76,0.72,0.05
+Mexico,254,Notavailable,0.48,0.45,0.03
+Egypt,303,Notavailable,0.71,0.81,0.05
+Australia,72,Notavailable,0.87,0.66,0.04
+Romania,132,Notavailable,2.1,1.3,0.09
+Philippines,175,Notavailable,0.38,0.43,0.03
+The Netherlands,47,Notavailable,0.91,0.62,0.04
+Thailand,133,Notavailable,0.57,0.38,0.03
+"Iran, Islamic Republic of",132,Notavailable,0.39,0.34,0.02
+Czechia,48,Notavailable,1.4,0.87,0.06
+Greece,57,Notavailable,1.7,0.98,0.07
+Belgium,37,Notavailable,1,0.72,0.05
+Hungary,91,Notavailable,3,1.8,0.12
+Colombia,78,Notavailable,0.41,0.36,0.02
+South Africa,124,Notavailable,0.52,0.57,0.04
+Sweden,25,Notavailable,0.79,0.57,0.04
+Nigeria,127,Notavailable,0.14,0.2,0.01
+Portugal,45,Notavailable,1.5,0.92,0.06
+Austria,38,Notavailable,1.5,0.93,0.06
+Pakistan,171,Notavailable,0.19,0.24,0.02
+Serbia,59,Notavailable,2.1,1.5,0.1
+Chile,45,Notavailable,0.69,0.54,0.04
+Bangladesh,148,Notavailable,0.21,0.2,0.01
+Bulgaria,62,Notavailable,2.9,1.7,0.12
+Peru,62,Notavailable,0.47,0.46,0.03
+"Korea, Democratic Republic of",74,Notavailable,0.78,0.54,0.04
+Switzerland,25,Notavailable,0.96,0.61,0.04
+Belarus,68,Notavailable,2.2,1.6,0.11
+"Venezuela, Bolivarian Republic of",66,Notavailable,0.51,0.51,0.03
+Kazakhstan,63,Notavailable,0.88,0.87,0.06
+Finland,13,Notavailable,0.78,0.58,0.04
+Algeria,64,Notavailable,0.37,0.37,0.02
+Israel,23,Notavailable,0.72,0.71,0.05
+Malaysia,54,Notavailable,0.4,0.41,0.03
+Denmark,16,Notavailable,0.9,0.63,0.04
+Slovakia,36,Notavailable,2,1.3,0.09
+Viet Nam,87,Notavailable,0.23,0.19,0.01
+Morocco,47,Notavailable,0.33,0.35,0.02
+Singapore,19,Notavailable,1,0.64,0.04
+"Congo, Democratic Republic of",49,Notavailable,0.13,0.21,0.01
+Cuba,31,Notavailable,0.84,0.5,0.03
+Croatia,23,Notavailable,1.8,1.2,0.08
+Republic of Moldova,48,Notavailable,3.4,2.8,0.18
+Norway,11,Notavailable,0.62,0.44,0.03
+Saudi Arabia,91,Notavailable,0.57,0.38,0.02
+Myanmar,71,Notavailable,0.33,0.31,0.02
+Uzbekistan,47,Notavailable,0.35,0.36,0.02
+New Zealand,14,Notavailable,0.9,0.73,0.05
+Kenya,42,Notavailable,0.18,0.26,0.02
+Uruguay,16,Notavailable,1.3,1.1,0.07
+Bosnia and Herzegovina,24,Notavailable,2.2,1.5,0.1
+Iraq,35,Notavailable,0.19,0.27,0.02
+Cameroon,18,Notavailable,0.16,0.26,0.02
+Ireland,11,Notavailable,0.67,0.46,0.03
+Dominican Republic,37,Notavailable,0.84,0.87,0.06
+Ecuador,20,Notavailable,0.29,0.3,0.02
+Syrian Arab Republic,41,Notavailable,0.51,0.71,0.05
+Latvia,15,Notavailable,2.6,1.7,0.12
+Ethiopia,77,Notavailable,0.16,0.29,0.02
+Nepal,31,Notavailable,0.26,0.25,0.01
+Lithuania,14,Notavailable,1.6,1.1,0.08
+Uganda,99,Notavailable,0.48,0.69,0.04
+Slovenia,9,Notavailable,1.4,0.87,0.06
+Armenia,14,Notavailable,1.4,1.3,0.09
+Tunisia,33,Notavailable,0.75,0.67,0.04
+Honduras,11,Notavailable,0.27,0.33,0.02
+Ghana,10,Notavailable,0.08,0.11,0.01
+Paraguay,32,Notavailable,1.1,1.3,0.09
+C�te d'Ivoire,24,Notavailable,0.21,0.31,0.02
+Albania,11,Notavailable,1.1,0.92,0.06
+The former Yugoslav Republic of Macedonia,11,Notavailable,1.5,1.1,0.07
+Lebanon,28,Notavailable,1.2,1.1,0.07
+Puerto Rico,7,Notavailable,0.57,0.46,0.03
+Estonia,7,Notavailable,1.7,1.2,0.08
+Mali,30,Notavailable,0.34,0.59,0.04
+Azerbaijan,14,Notavailable,0.36,0.33,0.02
+Haiti,9,Notavailable,0.19,0.3,0.02
+Jordan,29,Notavailable,0.66,0.78,0.05
+Afghanistan,28,Notavailable,0.16,0.26,0.02
+"Bolivia, Plurinational State of",1,Notavailable,0.02,0.03,0
+Costa Rica,7,Notavailable,0.38,0.32,0.02
+Yemen,34,Notavailable,0.25,0.44,0.03
+Georgia,14,Notavailable,1.1,0.84,0.06
+Guatemala,16,Notavailable,0.21,0.3,0.02
+Libya,24,Notavailable,0.86,0.76,0.05
+Sudan,26,Notavailable,0.14,0.23,0.02
+Niger,14,Notavailable,0.14,0.3,0.02
+Kyrgyzstan,9,Notavailable,0.35,0.43,0.03
+Zimbabwe,21,Notavailable,0.27,0.45,0.03
+El Salvador,8,Notavailable,0.33,0.38,0.03
+Rwanda,6,Notavailable,0.11,0.2,0.01
+Panama,4,Notavailable,0.24,0.23,0.02
+Nicaragua,8,Notavailable,0.3,0.31,0.02
+Burkina Faso,17,Notavailable,0.19,0.31,0.02
+Senegal,10,Notavailable,0.14,0.22,0.01
+Angola,15,Notavailable,0.11,0.16,0.01
+Benin,7,Notavailable,0.13,0.14,0.01
+Sri Lanka,14,Notavailable,0.19,0.15,0.01
+Chad,8,Notavailable,0.11,0.22,0.01
+Cambodia,10,Notavailable,0.15,0.17,0.01
+Cyprus,5,Notavailable,1.2,0.97,0.06
+Turkmenistan,11,Notavailable,0.45,0.46,0.03
+Tajikistan,9,Notavailable,0.23,0.29,0.02
+Jamaica,5,Notavailable,0.45,0.44,0.03
+South Sudan,13,Notavailable,0.22,0.32,0.02
+Papua New Guinea,11,Notavailable,0.29,0.36,0.02
+Trinidad and Tobago,3,Notavailable,0.61,0.51,0.03
+Mongolia,11,Notavailable,0.84,0.81,0.05
+Oman,16,Notavailable,0.55,0.47,0.03
+Gaza Strip and West Bank,10,Notavailable,0.43,0.67,0.04
+Somalia,9,Notavailable,0.13,0.26,0.02
+Luxembourg,2,Notavailable,1,0.64,0.04
+Kuwait,4,Notavailable,0.2,0.12,0.01
+"Tanzania, United Republic of",6,Notavailable,0.02,0.04,0
+Mozambique,19,Notavailable,0.14,0.2,0.01
+Mauritius,3,Notavailable,0.68,0.54,0.04
+Malta,1,Notavailable,0.74,0.56,0.04
+"France, La R�union",3,Notavailable,1,0.77,0.05
+Montenegro,3,Notavailable,1.4,1.1,0.07
+"France, Martinique",1,Notavailable,0.98,0.64,0.04
+Burundi,13,Notavailable,0.26,0.35,0.02
+Sierra Leone,8,Notavailable,0.23,0.33,0.02
+Lao People's Democratic Republic,5,Notavailable,0.16,0.2,0.01
+"France, Guadeloupe",2,Notavailable,1.6,1.2,0.08
+Madagascar,9,Notavailable,0.08,0.1,0.01
+Central African Republic,3,Notavailable,0.14,0.24,0.02
+Togo,6,Notavailable,0.17,0.23,0.02
+Mauritania,6,Notavailable,0.29,0.39,0.03
+Zambia,6,Notavailable,0.07,0.13,0.01
+"Congo, Republic of",3,Notavailable,0.12,0.13,0.01
+Liberia,3,Notavailable,0.14,0.2,0.01
+Guinea,6,Notavailable,0.1,0.15,0.01
+Bahrain,2,Notavailable,0.23,0.17,0.01
+"France, New Caledonia",3,Notavailable,2.9,2.3,0.16
+Qatar,3,Notavailable,0.17,0.14,0.01
+Fiji,1,Notavailable,0.27,0.3,0.02
+Namibia,2,Notavailable,0.18,0.2,0.01
+Guyana,4,Notavailable,1.2,1.2,0.08
+Malawi,3,Notavailable,0.03,0.03,0
+French Polynesia,1,Notavailable,0.91,0.74,0.05
+Eritrea,3,Notavailable,0.13,0.27,0.02
+Cabo Verde,3,Notavailable,1.3,1.5,0.1
+French Guyana,1,Notavailable,0.84,0.88,0.06
+Suriname,2,Notavailable,0.88,0.82,0.05
+Guinea-Bissau,2,Notavailable,0.23,0.41,0.03
+Botswana,1,Notavailable,0.1,0.08,0.01
+Brunei,3,Notavailable,1.7,1.3,0.08
+Guam,1,Notavailable,1.6,1.4,0.09
+Bahamas,1,Notavailable,0.68,0.56,0.04
+Lesotho,3,Notavailable,0.3,0.44,0.03
+The Republic of the Gambia,1,Notavailable,0.1,0.24,0.02
+Eswatini,2,Notavailable,0.32,0.58,0.04
+Djibouti,1,Notavailable,0.24,0.33,0.02
+Belize,1,Notavailable,0.61,0.78,0.05
