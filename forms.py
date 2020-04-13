@@ -18,13 +18,14 @@ p_map = {'name':'Robert Downey',
 
 # 1. Red Meat Nearly 120 Grams a Day   
 # 2. Processed Meat nearly 50 grams a day 
-# 3. Liquor/Spirit nearly 60 grams/L daily
+# 3. Liquor/Spirit nearly 60 grams/L daily	# Final Submit Field for Submiting the values
 # 4. Smoking nearly 3-5 cigarettes a day 
 # 5. Body Mass Index > 25
 
 
 class UserForm(FlaskForm):
 	
+	# The list of all variables used 
 	name = StringField('Full Name',
 		validators=[DataRequired()])
 
@@ -62,7 +63,7 @@ class UserForm(FlaskForm):
 
 	liquor_alcohol = SelectField('Do you consume Liquor/Spirit nearly 60 grams/L a day?',
 		choices=[('0','No'),('1','Yes')],
-		validators=[DataRequired()])	
+		validators=[DataRequired()])		# Final Submit Field for Submiting the values
 
 	smoking = SelectField('Do you smoke nearly 3-5 cigarettes a day?',
 		choices=[('0','No'),('1','Yes')],
@@ -84,5 +85,5 @@ class UserForm(FlaskForm):
 		choices=[('0','No'),('1','Yes')],
 		validators=[DataRequired()])
 
-
+	# Final Submit Field for Submiting the values
 	submit = SubmitField('Submit')
